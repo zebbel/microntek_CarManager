@@ -4,6 +4,6 @@ To Control some hardware on MTC Android Head Units the CarManager Modul is neede
 
 This is the compiled version of CarManager to make it easier to use in Android Studio projects.
 
-Also included is the source from with I compiled the jar.
+Included is also the source from which I compiled the library.
 
 Radio is an example Android Studio project where the carManager.jar is used.
