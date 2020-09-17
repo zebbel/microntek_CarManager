@@ -1,0 +1,3 @@
+include ':CarManager'
+include ':app'
+rootProject.name = "carmanager"
